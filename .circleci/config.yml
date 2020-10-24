@@ -44,6 +44,3 @@ workflows:
       - two:
           requires:
             - one
-
-Read more about workspaces here.
-SSH into Your Bu
